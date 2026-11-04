@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eWO/GkAAIv8=",
+  "dgSpecHash": "2HxgcP8Pa4Y=",
   "success": true,
-  "projectFilePath": "/Users/christianchekerdemian/RiderProjects/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt.csproj",
+  "projectFilePath": "C:\\Users\\Morte\\4. Semester\\C# & .NET\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt.csproj",
   "expectedPackageFiles": [
-    "/Users/christianchekerdemian/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.14/microsoft.aspnetcore.app.internal.assets.10.0.14.nupkg.sha512"
+    "C:\\Users\\Morte\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
   ],
   "logs": []
 }
