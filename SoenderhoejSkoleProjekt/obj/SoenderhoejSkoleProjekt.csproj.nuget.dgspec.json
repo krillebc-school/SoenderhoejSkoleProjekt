@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Morte\\4. Semester\\C# & .NET\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt.csproj": {}
+    "/Users/christianchekerdemian/RiderProjects/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Morte\\4. Semester\\C# & .NET\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt.csproj": {
+    "/Users/christianchekerdemian/RiderProjects/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Morte\\4. Semester\\C# & .NET\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt.csproj",
+        "projectUniqueName": "/Users/christianchekerdemian/RiderProjects/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt.csproj",
         "projectName": "SoenderhoejSkoleProjekt",
-        "projectPath": "C:\\Users\\Morte\\4. Semester\\C# & .NET\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt.csproj",
-        "packagesPath": "C:\\Users\\Morte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Morte\\4. Semester\\C# & .NET\\SoenderhoejSkoleProjekt\\SoenderhoejSkoleProjekt\\obj\\",
+        "projectPath": "/Users/christianchekerdemian/RiderProjects/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt.csproj",
+        "packagesPath": "/Users/christianchekerdemian/.nuget/packages/",
+        "outputPath": "/Users/christianchekerdemian/RiderProjects/SoenderhoejSkoleProjekt/SoenderhoejSkoleProjekt/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Morte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/christianchekerdemian/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +50,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.14, )",
               "autoReferenced": true
             }
           },
@@ -78,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
