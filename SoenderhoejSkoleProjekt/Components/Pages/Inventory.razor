@@ -9,8 +9,16 @@
 
 <ul>
     <li>
-        <label> navn på ting </label> <button>-</button> antal <button>+</button>
+        <label> navn på ting </label> <button onclick="removeItem">-</button> @antal <button onclick="addItem">+</button>
     </li>
 </ul>
+@code
+{
+    public int antal = 0;
+    
+    public void removeitem()
+    {
+        
+    }
 
 }
